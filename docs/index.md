@@ -1,4 +1,4 @@
-### About Me
+# About Me
 
 > 📝 **Note:** This page is currently under construction and will be updated soon!
 
